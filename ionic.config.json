@@ -1,0 +1,7 @@
+{
+  "name": "pgl_desarrollo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
