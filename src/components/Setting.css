@@ -1,0 +1,33 @@
+/*
+ * Optional CSS
+ * -----------------------------------
+ */
+
+
+.ios body {
+  --ion-background-color: #f2f2f6;
+  --ion-toolbar-background: var(--ion-background-color);
+  --ion-item-background: #fff;
+}
+
+
+.md body {
+  --ion-background-color: #f9f9f9;
+  --ion-toolbar-background: var(--ion-background-color);
+  --ion-item-background: #fff;
+}
+
+
+ion-item,ion-list-header {
+  --transition: none;
+  font-size: 1.2em; 
+}
+
+
+ion-item, ion-toggle, ion-label, ion-text, ion-list-header  {
+  font-family: 'Arial', sans-serif;  
+}
+
+
+
+
